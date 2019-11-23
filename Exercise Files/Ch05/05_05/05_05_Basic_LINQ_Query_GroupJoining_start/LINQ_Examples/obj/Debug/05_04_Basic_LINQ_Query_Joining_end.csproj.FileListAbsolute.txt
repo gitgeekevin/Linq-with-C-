@@ -1,0 +1,3 @@
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch05\05_05\05_05_Basic_LINQ_Query_GroupJoining_start\LINQ_Examples\bin\Debug\LINQ_Examples.exe.config
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch05\05_05\05_05_Basic_LINQ_Query_GroupJoining_start\LINQ_Examples\obj\Debug\LINQ_Examples.exe
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch05\05_05\05_05_Basic_LINQ_Query_GroupJoining_start\LINQ_Examples\obj\Debug\LINQ_Examples.pdb

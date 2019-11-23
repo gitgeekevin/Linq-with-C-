@@ -1,0 +1,13 @@
+c:\users\barron\documents\visual studio 2012\Projects\LINQ_Examples\LINQ_Examples\bin\Debug\LINQ_Examples.exe.config
+c:\users\barron\documents\visual studio 2012\Projects\LINQ_Examples\LINQ_Examples\obj\Debug\LINQ_Examples.csprojResolveAssemblyReference.cache
+c:\users\barron\documents\visual studio 2012\Projects\LINQ_Examples\LINQ_Examples\bin\Debug\LINQ_Examples.exe
+c:\users\barron\documents\visual studio 2012\Projects\LINQ_Examples\LINQ_Examples\bin\Debug\LINQ_Examples.pdb
+c:\users\barron\documents\visual studio 2012\Projects\LINQ_Examples\LINQ_Examples\obj\Debug\LINQ_Examples.exe
+c:\users\barron\documents\visual studio 2012\Projects\LINQ_Examples\LINQ_Examples\obj\Debug\LINQ_Examples.pdb
+C:\Learning\Ex_Files_LINQ_CSharp_EssT\Exercise Files\Ch05\05_04\05_04_Basic_LINQ_Query_Joining_start\LINQ_Examples\bin\Debug\LINQ_Examples.exe.config
+C:\Learning\Ex_Files_LINQ_CSharp_EssT\Exercise Files\Ch05\05_04\05_04_Basic_LINQ_Query_Joining_start\LINQ_Examples\bin\Debug\LINQ_Examples.exe
+C:\Learning\Ex_Files_LINQ_CSharp_EssT\Exercise Files\Ch05\05_04\05_04_Basic_LINQ_Query_Joining_start\LINQ_Examples\bin\Debug\LINQ_Examples.pdb
+C:\Learning\Ex_Files_LINQ_CSharp_EssT\Exercise Files\Ch05\05_04\05_04_Basic_LINQ_Query_Joining_start\LINQ_Examples\obj\Debug\LINQ_Examples.csprojAssemblyReference.cache
+C:\Learning\Ex_Files_LINQ_CSharp_EssT\Exercise Files\Ch05\05_04\05_04_Basic_LINQ_Query_Joining_start\LINQ_Examples\obj\Debug\LINQ_Examples.csproj.CoreCompileInputs.cache
+C:\Learning\Ex_Files_LINQ_CSharp_EssT\Exercise Files\Ch05\05_04\05_04_Basic_LINQ_Query_Joining_start\LINQ_Examples\obj\Debug\LINQ_Examples.exe
+C:\Learning\Ex_Files_LINQ_CSharp_EssT\Exercise Files\Ch05\05_04\05_04_Basic_LINQ_Query_Joining_start\LINQ_Examples\obj\Debug\LINQ_Examples.pdb

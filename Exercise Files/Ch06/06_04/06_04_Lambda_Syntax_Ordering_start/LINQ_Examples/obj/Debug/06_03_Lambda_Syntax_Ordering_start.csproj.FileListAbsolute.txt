@@ -1,0 +1,3 @@
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch06\06_03\06_03_Lambda_Syntax_Ordering_start\LINQ_Examples\bin\Debug\LINQ_Examples.exe.config
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch06\06_03\06_03_Lambda_Syntax_Ordering_start\LINQ_Examples\obj\Debug\LINQ_Examples.exe
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch06\06_03\06_03_Lambda_Syntax_Ordering_start\LINQ_Examples\obj\Debug\LINQ_Examples.pdb

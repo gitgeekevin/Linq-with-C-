@@ -1,0 +1,8 @@
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch06\06_07\06_07_Lambda_Syntax_Selecting_start - Copy\LINQ_Examples\bin\Debug\LINQ_Examples.exe.config
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch06\06_07\06_07_Lambda_Syntax_Selecting_start - Copy\LINQ_Examples\obj\Debug\LINQ_Examples.exe
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch06\06_07\06_07_Lambda_Syntax_Selecting_start - Copy\LINQ_Examples\obj\Debug\LINQ_Examples.pdb
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch06\06_07\06_07_Lambda_Syntax_Selecting_end\LINQ_Examples\bin\Debug\LINQ_Examples.exe.config
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch06\06_07\06_07_Lambda_Syntax_Selecting_end\LINQ_Examples\obj\Debug\LINQ_Examples.exe
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch06\06_07\06_07_Lambda_Syntax_Selecting_end\LINQ_Examples\obj\Debug\LINQ_Examples.pdb
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch06\06_07\06_07_Lambda_Syntax_Selecting_end\LINQ_Examples\bin\Debug\LINQ_Examples.exe
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch06\06_07\06_07_Lambda_Syntax_Selecting_end\LINQ_Examples\bin\Debug\LINQ_Examples.pdb

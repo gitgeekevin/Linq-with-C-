@@ -1,0 +1,6 @@
+c:\users\barron\documents\visual studio 2012\Projects\LINQ_Examples\LINQ_Examples\bin\Debug\LINQ_Examples.exe.config
+c:\users\barron\documents\visual studio 2012\Projects\LINQ_Examples\LINQ_Examples\obj\Debug\LINQ_Examples.csprojResolveAssemblyReference.cache
+c:\users\barron\documents\visual studio 2012\Projects\LINQ_Examples\LINQ_Examples\bin\Debug\LINQ_Examples.exe
+c:\users\barron\documents\visual studio 2012\Projects\LINQ_Examples\LINQ_Examples\bin\Debug\LINQ_Examples.pdb
+c:\users\barron\documents\visual studio 2012\Projects\LINQ_Examples\LINQ_Examples\obj\Debug\LINQ_Examples.exe
+c:\users\barron\documents\visual studio 2012\Projects\LINQ_Examples\LINQ_Examples\obj\Debug\LINQ_Examples.pdb

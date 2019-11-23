@@ -1,0 +1,6 @@
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch05\05_04\05_04_Basic_LINQ_Query_Joining_start - Copy\LINQ_Examples\bin\Debug\LINQ_Examples.exe.config
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch05\05_04\05_04_Basic_LINQ_Query_Joining_start - Copy\LINQ_Examples\bin\Debug\LINQ_Examples.exe
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch05\05_04\05_04_Basic_LINQ_Query_Joining_start - Copy\LINQ_Examples\bin\Debug\LINQ_Examples.pdb
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch05\05_04\05_04_Basic_LINQ_Query_Joining_start - Copy\LINQ_Examples\obj\Debug\05_04_Basic_LINQ_Query_Joining_start.csprojResolveAssemblyReference.cache
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch05\05_04\05_04_Basic_LINQ_Query_Joining_start - Copy\LINQ_Examples\obj\Debug\LINQ_Examples.exe
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch05\05_04\05_04_Basic_LINQ_Query_Joining_start - Copy\LINQ_Examples\obj\Debug\LINQ_Examples.pdb

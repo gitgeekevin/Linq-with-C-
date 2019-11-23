@@ -1,0 +1,9 @@
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch08\08_01\08_01_Database_Connect_start\Start_LINQ_SQL\bin\Debug\Start_LINQ_SQL.exe.config
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch08\08_01\08_01_Database_Connect_start\Start_LINQ_SQL\bin\Debug\Start_LINQ_SQL.exe
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch08\08_01\08_01_Database_Connect_start\Start_LINQ_SQL\bin\Debug\Start_LINQ_SQL.pdb
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch08\08_01\08_01_Database_Connect_start\Start_LINQ_SQL\obj\Debug\08_01_SQL_Connect_start.csprojResolveAssemblyReference.cache
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch08\08_01\08_01_Database_Connect_start\Start_LINQ_SQL\obj\Debug\Start_LINQ_SQL.exe
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch08\08_01\08_01_Database_Connect_start\Start_LINQ_SQL\obj\Debug\Start_LINQ_SQL.pdb
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch08\08_03\08_03_SQL_Associate_start\Start_LINQ_SQL\bin\Debug\Start_LINQ_SQL.exe.config
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch08\08_03\08_03_SQL_Associate_start\Start_LINQ_SQL\obj\Debug\Start_LINQ_SQL.exe
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch08\08_03\08_03_SQL_Associate_start\Start_LINQ_SQL\obj\Debug\Start_LINQ_SQL.pdb

@@ -1,0 +1,2 @@
+c:\users\barron\documents\visual studio 2012\Projects\Start_LINQ_Scalar\Start_LINQ_Scalar\bin\Debug\Start_LINQ_Scalar.exe.config
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch10\10_02\10_02_Singular_start - Copy\Start_LINQ_Scalar\bin\Debug\Start_LINQ_Scalar.exe.config

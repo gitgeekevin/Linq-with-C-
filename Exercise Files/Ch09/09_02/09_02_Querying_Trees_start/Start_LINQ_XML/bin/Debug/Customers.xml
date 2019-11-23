@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Customer List xml-->
+<Customers>
+  <Customer ID="LD2961">
+    <First>Cailin</First>
+    <Last>Alford</Last>
+    <State>GA</State>
+    <Purchases>
+      <Product>Panel 625</Product>
+      <Product>Panel 200</Product>
+    </Purchases>
+  </Customer>
+  <Customer ID="LD8403">
+    <First>Theodore</First>
+    <Last>Brock</Last>
+    <State>AR</State>
+    <Purchases>
+      <Product>12V Li</Product>
+    </Purchases>
+  </Customer>
+  <Customer ID="LD7261">
+    <First>Jerry</First>
+    <Last>Gill</Last>
+    <State>MI</State>
+    <Purchases>
+      <Product>Bulb 23W</Product>
+      <Product>Panel 625</Product>
+    </Purchases>
+  </Customer>
+  <Customer ID="LD9918">
+    <First>Owens</First>
+    <Last>Howell</Last>
+    <State>GA</State>
+    <Purchases>
+      <Product>Panel 200</Product>
+      <Product>Panel 180</Product>
+    </Purchases>
+  </Customer>
+  <Customer ID="LD9332">
+    <First>Adena</First>
+    <Last>Jenkins</Last>
+    <State>OR</State>
+    <Purchases>
+      <Product>Bulb 23W</Product>
+      <Product>12V Li</Product>
+      <Product>Panel 180</Product>
+    </Purchases>
+  </Customer>
+  <Customer ID="LD8300">
+    <First>Medge</First>
+    <Last>Ratliff</Last>
+    <State>GA</State>
+    <Purchases>
+      <Product>Panel 625</Product>
+    </Purchases>
+  </Customer>
+  <Customer ID="LD8776">
+    <First>Sydney</First>
+    <Last>Bartlett</Last>
+    <State>OR</State>
+    <Purchases>
+      <Product>12V Li</Product>
+      <Product>AA NiMH</Product>
+    </Purchases>
+  </Customer>
+  <Customer ID="LD1572">
+    <First>Malik</First>
+    <Last>Faulkner</Last>
+    <State>MI</State>
+    <Purchases>
+      <Product>Bulb 23W</Product>
+      <Product>Panel 180</Product>
+    </Purchases>
+  </Customer>
+  <Customer ID="LD1042">
+    <First>Serena</First>
+    <Last>Malone</Last>
+    <State>GA</State>
+    <Purchases>
+      <Product>Panel 180</Product>
+      <Product>Panel 200</Product>
+    </Purchases>
+  </Customer>
+  <Customer ID="LD9674">
+    <First>Hadley</First>
+    <Last>Sosa</Last>
+    <State>OR</State>
+    <Purchases>
+      <Product>Panel 625</Product>
+      <Product>Bulb 23W</Product>
+      <Product>Bulb 9W</Product>
+    </Purchases>
+  </Customer>
+  <Customer ID="LD7414">
+    <First>Nash</First>
+    <Last>Vasquez</Last>
+    <State>OR</State>
+    <Purchases>
+      <Product>Bulb 23W</Product>
+      <Product>Bulb 9W</Product>
+    </Purchases>
+  </Customer>
+  <Customer ID="LD5537">
+    <First>Joshua</First>
+    <Last>Delaney</Last>
+    <State>WA</State>
+    <Purchases>
+      <Product>Panel 200</Product>
+    </Purchases>
+  </Customer>
+</Customers>

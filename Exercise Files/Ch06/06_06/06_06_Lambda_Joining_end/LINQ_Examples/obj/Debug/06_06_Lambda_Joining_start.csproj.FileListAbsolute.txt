@@ -1,0 +1,9 @@
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch06\06_06\06_06_Lambda_Joining_start\LINQ_Examples\bin\Debug\LINQ_Examples.exe.config
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch06\06_06\06_06_Lambda_Joining_start\LINQ_Examples\obj\Debug\LINQ_Examples.exe
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch06\06_06\06_06_Lambda_Joining_start\LINQ_Examples\obj\Debug\LINQ_Examples.pdb
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch06\06_06\06_06_Lambda_Joining_start - Copy\LINQ_Examples\bin\Debug\LINQ_Examples.exe.config
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch06\06_06\06_06_Lambda_Joining_start - Copy\LINQ_Examples\obj\Debug\LINQ_Examples.exe
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch06\06_06\06_06_Lambda_Joining_start - Copy\LINQ_Examples\obj\Debug\LINQ_Examples.pdb
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch06\06_06\06_06_Lambda_Joining_start - Copy\LINQ_Examples\obj\Debug\06_06_Lambda_Joining_start.csprojResolveAssemblyReference.cache
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch06\06_06\06_06_Lambda_Joining_start - Copy\LINQ_Examples\bin\Debug\LINQ_Examples.exe
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch06\06_06\06_06_Lambda_Joining_start - Copy\LINQ_Examples\bin\Debug\LINQ_Examples.pdb

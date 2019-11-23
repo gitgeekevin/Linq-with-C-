@@ -1,0 +1,3 @@
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch05\05_06\05_06_Basic_LINQ_Query_Selecting_end\LINQ_Examples\bin\Debug\LINQ_Examples.exe.config
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch05\05_06\05_06_Basic_LINQ_Query_Selecting_end\LINQ_Examples\obj\Debug\LINQ_Examples.exe
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch05\05_06\05_06_Basic_LINQ_Query_Selecting_end\LINQ_Examples\obj\Debug\LINQ_Examples.pdb

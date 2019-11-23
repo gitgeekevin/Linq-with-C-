@@ -1,0 +1,15 @@
+c:\users\barron\documents\visual studio 2012\Projects\LINQ_Examples\LINQ_Examples\bin\Debug\LINQ_Examples.exe.config
+c:\users\barron\documents\visual studio 2012\Projects\LINQ_Examples\LINQ_Examples\obj\Debug\LINQ_Examples.csprojResolveAssemblyReference.cache
+c:\users\barron\documents\visual studio 2012\Projects\LINQ_Examples\LINQ_Examples\bin\Debug\LINQ_Examples.exe
+c:\users\barron\documents\visual studio 2012\Projects\LINQ_Examples\LINQ_Examples\bin\Debug\LINQ_Examples.pdb
+c:\users\barron\documents\visual studio 2012\Projects\LINQ_Examples\LINQ_Examples\obj\Debug\LINQ_Examples.exe
+c:\users\barron\documents\visual studio 2012\Projects\LINQ_Examples\LINQ_Examples\obj\Debug\LINQ_Examples.pdb
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch05\05_03\05_03_Basic_LINQ_Query_Grouping_start - Copy\LINQ_Examples\bin\Debug\LINQ_Examples.exe.config
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch05\05_03\05_03_Basic_LINQ_Query_Grouping_start - Copy\LINQ_Examples\obj\Debug\LINQ_Examples.exe
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch05\05_03\05_03_Basic_LINQ_Query_Grouping_start - Copy\LINQ_Examples\obj\Debug\LINQ_Examples.pdb
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch05\05_03\05_03_Basic_LINQ_Query_Grouping_start - Copy\LINQ_Examples\bin\Debug\LINQ_Examples.exe
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch05\05_03\05_03_Basic_LINQ_Query_Grouping_start - Copy\LINQ_Examples\bin\Debug\LINQ_Examples.pdb
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch05\05_03\05_03_Basic_LINQ_Query_Grouping_start - Copy\LINQ_Examples\obj\Debug\LINQ_Examples.csprojResolveAssemblyReference.cache
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch05\05_03\05_03_Basic_LINQ_Query_Grouping_end\LINQ_Examples\bin\Debug\LINQ_Examples.exe.config
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch05\05_03\05_03_Basic_LINQ_Query_Grouping_end\LINQ_Examples\obj\Debug\LINQ_Examples.exe
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch05\05_03\05_03_Basic_LINQ_Query_Grouping_end\LINQ_Examples\obj\Debug\LINQ_Examples.pdb

@@ -1,0 +1,12 @@
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch03\03_01\03_01_Return_As_New_Type_start\LINQ_Examples\obj\Debug\03_01_Return_As_New_Type_start.csprojResolveAssemblyReference.cache
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch03\03_01\03_01_Return_As_New_Type_start\LINQ_Examples\obj\Debug\LINQ_Examples.exe
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch03\03_01\03_01_Return_As_New_Type_start\LINQ_Examples\obj\Debug\LINQ_Examples.pdb
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch03\03_01\03_01_Return_As_New_Type_start\LINQ_Examples\bin\Debug\LINQ_Examples.exe.config
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch03\03_01\03_01_Return_As_New_Type_start\LINQ_Examples\bin\Debug\LINQ_Examples.exe
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch03\03_01\03_01_Return_As_New_Type_start\LINQ_Examples\bin\Debug\LINQ_Examples.pdb
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch03\03_01\03_01_Return_As_New_Type_end\LINQ_Examples\bin\Debug\LINQ_Examples.exe.config
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch03\03_01\03_01_Return_As_New_Type_end\LINQ_Examples\obj\Debug\LINQ_Examples.exe
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch03\03_01\03_01_Return_As_New_Type_end\LINQ_Examples\obj\Debug\LINQ_Examples.pdb
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch03\03_01\03_01_Return_As_New_Type_end\LINQ_Examples\obj\Debug\03_01_Return_As_New_Type_start.csprojResolveAssemblyReference.cache
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch03\03_01\03_01_Return_As_New_Type_end\LINQ_Examples\bin\Debug\LINQ_Examples.exe
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch03\03_01\03_01_Return_As_New_Type_end\LINQ_Examples\bin\Debug\LINQ_Examples.pdb

@@ -1,0 +1,2 @@
+c:\users\barron\documents\visual studio 2012\Projects\Start_LINQ_XML\Start_LINQ_XML\bin\Debug\Start_LINQ_XML.exe.config
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch09\09_02\09_02_Querying_Trees_start\Start_LINQ_XML\bin\Debug\Start_LINQ_XML.exe.config

@@ -1,0 +1,6 @@
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch11\11_01_Performance\LINQ_Examples\bin\Debug\LINQ_Examples.exe.config
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch11\11_01_Performance\LINQ_Examples\bin\Debug\LINQ_Examples.exe
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch11\11_01_Performance\LINQ_Examples\bin\Debug\LINQ_Examples.pdb
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch11\11_01_Performance\LINQ_Examples\obj\Debug\11_01_Performance_start.csprojResolveAssemblyReference.cache
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch11\11_01_Performance\LINQ_Examples\obj\Debug\LINQ_Examples.exe
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch11\11_01_Performance\LINQ_Examples\obj\Debug\LINQ_Examples.pdb

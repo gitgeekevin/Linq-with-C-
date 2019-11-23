@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Customer List xml-->
+<Customers>
+  <Customer ID="LD9332">
+    <First>Adena</First>
+    <Last>Jenkins</Last>
+    <State>OR</State>
+  </Customer>
+  <Customer ID="LD8776">
+    <First>Sydney</First>
+    <Last>Bartlett</Last>
+    <State>OR</State>
+  </Customer>
+  <Customer ID="LD9674">
+    <First>Hadley</First>
+    <Last>Sosa</Last>
+    <State>OR</State>
+  </Customer>
+  <Customer ID="LD7414">
+    <First>Nash</First>
+    <Last>Vasquez</Last>
+    <State>OR</State>
+  </Customer>
+</Customers>

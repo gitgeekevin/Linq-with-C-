@@ -1,0 +1,3 @@
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch06\06_02\06_02_Lambda_Index_Distinct_end\LINQ_Examples\bin\Debug\LINQ_Examples.exe.config
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch06\06_02\06_02_Lambda_Index_Distinct_end\LINQ_Examples\obj\Debug\LINQ_Examples.exe
+C:\Users\Olivia Chiu\Desktop\Exercise Files\Ch06\06_02\06_02_Lambda_Index_Distinct_end\LINQ_Examples\obj\Debug\LINQ_Examples.pdb
